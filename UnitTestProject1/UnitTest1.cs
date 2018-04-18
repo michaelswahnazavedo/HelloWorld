@@ -25,7 +25,7 @@ namespace UnitTestProject1
 		}
 
 		[TestMethod]
-		public void TestMethod4()
+		public void TestMethod6()
 		{
 			Assert.AreEqual("2", "2");
 		}
